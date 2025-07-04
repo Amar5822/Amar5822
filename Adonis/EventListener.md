@@ -1,4 +1,4 @@
- # Concept 3: Event Listeners — Kuch hone pe kuch aur karna
+ # Concept 3: Event Listeners — trigger Event on change event
 
  1. Step 1: Event aur Listener banaye
 ```ts

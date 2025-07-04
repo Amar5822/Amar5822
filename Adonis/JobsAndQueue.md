@@ -1,4 +1,4 @@
-# 🚚 Concept 2: Jobs & Queues — Background mein kaam karwana
+# 🚚 Concept 2: Jobs & Queues — Work in Background 
 
 1. Install package:
 
