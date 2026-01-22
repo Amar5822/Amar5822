@@ -7,5 +7,5 @@ export const embeddingModel = genAI.getGenerativeModel({
 })
 
 export const chatModel = genAI.getGenerativeModel({
-  model: 'gemini-pro',
+  model: 'gemini-2.0-flash',
 })
